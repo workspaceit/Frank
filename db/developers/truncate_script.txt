@@ -1,0 +1,12 @@
+TRUNCATE `gossip_main`;
+TRUNCATE `gossip_main_comments`;
+TRUNCATE `gossip_main_trait`;
+TRUNCATE `gossip_outsiders`;
+TRUNCATE `gossip_relationship`;
+TRUNCATE `graph_frequency_day`;
+TRUNCATE `graph_frequency_month`;
+TRUNCATE `graph_frequency_year`;
+TRUNCATE `group_members`;
+TRUNCATE `group_search_string`;
+TRUNCATE `trait_users_gossip`;
+TRUNCATE `trait_v_a_value`;
